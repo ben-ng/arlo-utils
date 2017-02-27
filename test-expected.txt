@@ -1,0 +1,8 @@
+Lag between event and recording: 29
+Lag between event and recording when hour is wrong: 29
+Lag between event and recording across midnight: 1805
+Lag between event and recording when hour is wrong, across midnight: 1805
+Recording start epoch of file: 1487892595
+Recording start time of file: 02/23/2017 18:29:55
+Recording date of file: 02/23/2017
+Camera ID of file: 5FO00B3ABC1A1
